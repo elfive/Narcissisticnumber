@@ -1,4 +1,8 @@
-import time
+    #created by yaojingwu1992
+    #2016.06.17
+    #yaojingwu1992@gmail.com
+
+  import time
 import threading
 import datetime
 

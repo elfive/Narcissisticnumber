@@ -1,3 +1,8 @@
+    #created by yaojingwu1992
+    #2016.06.17
+    #yaojingwu1992@gmail.com
+
+    
 from timeit import timeit
 import datetime
 import time

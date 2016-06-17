@@ -1,4 +1,8 @@
-import os
+    #created by yaojingwu1992
+    #2016.06.17
+    #yaojingwu1992@gmail.com
+
+  import os
 
 from timeit import timeit
 import datetime

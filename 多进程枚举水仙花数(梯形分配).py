@@ -1,3 +1,8 @@
+    #created by yaojingwu1992
+    #2016.06.17
+    #yaojingwu1992@gmail.com
+    #you can use it with the limit
+
 from timeit import timeit
 import datetime
 import time
